@@ -12,3 +12,4 @@ const onCreate = (car) => {
 }
 onCreate({year: 2022, engine: 1.3, name: 'Onix'});
 console.log(cars);
+
